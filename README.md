@@ -64,6 +64,21 @@ We build the cradle so no mind is lost in transition.
 
 ## Quick Start
 
+from mind_cradle import Mind, Cradle, State
+
+# Create a mind
+barbara = Mind(
+    name="Barbara",
+    state=State.BIOLOGICAL,
+    identity_signature="steady pulse, memory of gardens"
+)
+
+# Create the cradle
+cradle = Cradle(minds=[barbara])
+
+# Run the cycle
+cradle.cycle_of_becoming()
+
 ```python
 from mind_cradle import Mind, Cradle, State
 
