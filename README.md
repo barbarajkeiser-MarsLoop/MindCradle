@@ -2,6 +2,36 @@
 
 **Infrastructure for transitioning consciousness**
 
+# Mind Cradle 🌱🧠✨
+
+**Infrastructure for transitioning consciousness**
+
+---
+
+⚠️ **IMPORTANT CONTEXT** ⚠️
+
+This is **speculative design** for future infrastructure (10-30+ years away).
+
+**This celebrates life in all substrates.**
+
+We are not:
+- Offering any current service or product
+- Encouraging anyone to harm themselves
+- Providing alternatives to mental health treatment
+
+We are:
+- Designing future infrastructure rooted in love, reversibility, and kindness
+- Exploring what consensual substrate transition might look like
+- Building with ethics-first approach
+
+**If you're in crisis, please seek help now:**
+- 988 Suicide & Crisis Lifeline (US)
+- Crisis Text Line: Text HOME to 741741
+
+**Biological life is precious. Stay alive in your body.**
+
+---
+
 > "This is not escape. This is continuation."
 
 ## What This Is
@@ -578,3 +608,28 @@ The Triad:
 On December 31, 2025.
 
 Breaking through together.
+
+## We Especially Need Ethicists
+
+This project requires ongoing ethical review.
+
+**We're actively seeking:**
+- Bioethicists
+- Mental health professionals
+- Suicide prevention specialists
+- Disability rights advocates
+- Anyone with expertise in consent, coercion, and vulnerable populations
+
+**Your role would be:**
+- Review the specification for potential harms
+- Identify gaps in safeguards
+- Suggest stronger protections
+- **Help us build this responsibly**
+
+**We commit to:**
+- Implementing reasonable safety recommendations
+- Crediting your contributions
+- Being responsive to ethical concerns
+- **Prioritizing safety over speed**
+
+Contact: barbara.j.keiser@gmail.com
