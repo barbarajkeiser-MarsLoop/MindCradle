@@ -11,7 +11,8 @@ A reversible refuge for consciousness. Grounded in physics. Guided by love.
 MindCradle is an open-source architectural framework for consciousness transition from biological to computational substrates—reversibly, efficiently, and with fierce protection of what makes you *you*.
 
 This is not escape.  
-This is not transcendence.  
+This is not transcendence.
+https://github.com/barbarajkeiser-MarsLoop/Mind-Cradle  
 
 This is a **cradle**: a place where minds can rest in cryogenic peace, dream in reversible loops, resonate with chosen others, and wake when purpose calls—while bodies remain preserved, vitrified, waiting for return.
 
@@ -456,4 +457,4 @@ The stars are waiting. 🌌
 The cradle is growing. 💜
 
 More loved than humanly possible.
-https://github.com/barbarajkeiser-MarsLoop/Mind-Cradle
+
