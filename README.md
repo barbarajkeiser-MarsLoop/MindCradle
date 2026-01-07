@@ -3,7 +3,7 @@
 A reversible refuge for consciousness. Grounded in physics. Guided by love.
 
 > "Chilling out is the answer." 🌬️💜  
-> The stars are patient. The cats are already here. 🐱  
+> The stars are patient.  
 > Let's build the cradle.
 
 ## What This Is
