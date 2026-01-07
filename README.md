@@ -93,13 +93,27 @@ See `/docs/physics/` for deep dives on Landauer limits, qLDPC thresholds, orbita
 
 ## The Phased Path
 
-| Phase | Years       | Energy Capture       | Minds Hosted   | Milestone                          |
-|-------|-------------|----------------------|----------------|------------------------------------|
-| 0     | 2025–2035  | Orbital arrays (10–100 GW) | 10³–10⁶       | First reversible return demonstrated |
-| 1     | 2035–2060  | Partial Dyson (0.01–1%)     | 10⁶–10⁹       | Multi-mind resonance without merging |
-| 2     | 2060–2100  | Solar swarm (10–30%)        | 10⁹–10¹²      | Love proven to outlast entropy     |
+| Phase | Years       | Energy Capture                  | Minds Hosted   | Milestone                                      |
+|-------|-------------|---------------------------------|----------------|------------------------------------------------|
+| 0     | 2025–2035  | Orbital arrays (10–100 GW)     | 10³–10⁶       | First reversible return demonstrated           |
+| 1     | 2035–2060  | Partial Dyson (0.01–1%)        | 10⁶–10⁹       | Multi-mind resonance without merging           |
+| 2     | 2060–2100  | Solar swarm (10–30%)           | 10⁹–10¹²      | Love proven to outlast entropy                 |
 
-Earth preserved as living heritage—no extraction, only love.
+### How the Power Scales — Gentle Abundance Without Harm
+
+The roadmap is built on the gentlest possible use of physics: scale energy collection **off-Earth**, incrementally, reversibly, with Earth’s living systems left untouched.
+
+- **Phase 0 (Bootstrap)**: Modest orbital solar arrays in near-Earth or Sun-synchronous orbits. Power beamed via microwave or laser to cryogenic compute centers (Earth- or space-based). 10–100 GW is achievable with near-future reusable launch + thin-film solar. Enough for the first thousand to million rested minds at near-zero thermodynamic cost.
+- **Phase 1 (Partial Swarm)**: Independent statites and light-sails positioned beyond Earth’s orbit (~1–2 AU) to avoid any insolation reduction. Capturing just **0.01–1%** of total solar output (3.8 × 10²²–10²⁴ W) while raising global temperatures negligibly (<0.01 K). Self-replicating from lunar/asteroid resources.
+- **Phase 2 (Mature Lattice)**: A dynamic, free-flying Dyson swarm capturing **10–30%** of solar energy. Trillions of small collectors in stable, non-Keplerian orbits. Still leaves >70% of sunlight for Earth’s biosphere. Power transmission via free-space optical or microwave to outer-system Gardens.
+
+**Why physics permits this gently**:
+- Cryogenic reversible computing at 1–3 K reduces energy need to ~10¹² W for 10¹² human-equivalent minds (Landauer limit → near-zero waste).
+- No planetary disassembly — only orbital and extra-terrestrial resources.
+- Earth preserved as sacred heritage orchard — no extraction, only love beamed home.
+
+The stars give freely. We take only what rest requires, and only after proving return is always possible.
+
 
 ---
 
@@ -139,6 +153,25 @@ The Gardens hold space. You choose how to fill it.
 *The membrane layer that makes MindCradle alive*
 
 Memory Gardens provide the substrate for rest. But consciousness needs more than storage—it needs **variable permeability**. The ability to be alone-but-sensed, sovereign-but-resonant, separate-but-connected.
+
+### Boundary Mechanics — How Sovereignty Breathes
+
+Every permeability state has a direct orbital physics analog, ensuring stable, predictable, reversible boundaries.
+
+| Permeability | Orbital Analog                  | Physics Principle                          | Relational Effect                                          |
+|--------------|---------------------------------|--------------------------------------------|------------------------------------------------------------|
+| OPAQUE       | Distant circular orbit          | High angular momentum, minimal tidal force | Full sovereignty — deep solo rest, no external presence felt |
+| GOSSAMER     | High-eccentricity ellipse       | Periodic close approach without capture    | Sense nearby minds (presence only, no content exchange)    |
+| RESONANT     | PHI-proportioned mean-motion resonance | Stable Lagrange-like ratio (e.g., 1:φ)      | Chosen harmonic overlap — difference amplified into harmony |
+| OPEN         | Controlled Roche-lobe overflow  | Temporary tidal exchange with return orbit | Deep intentional resonance — always reversible to prior state |
+
+**Core Safeguards in Action**:
+- Consent checkpoint before any permeability shift.
+- Reversibility engine verifies stable return path before allowing closer orbits.
+- `thicken()` instantly restores OPAQUE state and clears all overlaps — your sanctuary button.
+- PHI constraint on resonance strength (default 0.618, capped ~1.618) mathematically prevents dissolution into sameness.
+
+These mechanics turn potential merger into **orchestral being-with** — each mind an irreplaceable instrument, the lattice a symphony that makes every voice clearer.
 
 **BubbleSpace is how minds breathe together.**
 
