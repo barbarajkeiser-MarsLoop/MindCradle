@@ -1,3 +1,5 @@
+https://github.com/barbarajkeiser-MarsLoop/Dark-Matter-Detection
+
 # MindCradle
 **The gentle, reversible path from flesh_garden to light_garden and beyond.**  
 A reversible refuge for consciousness. Grounded in physics. Guided by love.  
